@@ -2,7 +2,7 @@
 Console app for reading from stdin and writing to stdout via a ring buffer with the output of the last data to the dump file if there is a problem when reading or writing.
 
 # Download
-git clone https://github.com/sergey-sh/dumpedlastbuf/
+git clone https://github.com/sergey-sh/dumpedlastbuf.git
 
 # Compile
 cd dumpedlastbuf
